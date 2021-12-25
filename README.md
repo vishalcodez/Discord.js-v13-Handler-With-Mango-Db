@@ -18,11 +18,13 @@
 
  **2.** Download This Repo And Unzip it  |  or Git Clone it
  
- **3.** Fill Everything in **`.env`**
+ **3.** Remove .example From .env.example
 
- **4.** After Fill .env run  **`setup.bat`**
+ **4.** Fill Everything in **`.env`**
+
+ **5.** After Fill .env run  **`setup.bat`**
  
- **5.** Run Bot Siply With **`start.bat`**
+ **6.** Run Bot Siply With **`start.bat`**
  <br/>
 
 ## Configuration
