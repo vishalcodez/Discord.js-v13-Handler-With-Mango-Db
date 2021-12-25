@@ -6,17 +6,17 @@
 </p>
 
 ***
- ## [JOIN CODE STREAKERS SERVER](https://discord.gg/czHQgQgMHY)
-<a href="https://discord.gg/czHQgQgMHY"><img src="https://discord.com/api/guilds/924403432054456351/widget.png"></a>
+ <h3 align='center'> CODE STREAKERS DISCORD SERVER </h3>
+<div align="center"> <a href="https://discord.gg/czHQgQgMHY"><img src="https://img.shields.io/discord/924403432054456351?label=discord&logo=Discord&style=for-the-badge" alt="Discord server" /></a><div align="center">
 
 
 ## Installation Guide & Requirements
 
 
  **1.** Install [NodeJS v16.6 or Higher](https://nodejs.org/en/) or Higher
-- Discord.js v13 (`npm install discord.js@latest`)
-- `applications.commands` Must Check Scope Enabled For Your Bot in Developer Portal (For Slash Commands)
-- Basic knowledge of JS or Discord.JS
+ Discord.js v13 (`npm install discord.js@latest`)
+ `applications.commands` Must Check Scope Enabled For Your Bot in Developer Portal (For Slash Commands)
+ Basic knowledge of JS or Discord.JS
 
  **2.** Download This Repo And Unzip it  |  or Git Clone it
  
