@@ -30,7 +30,7 @@
  <br/>
 
 ## Configuration
-- **Modify The `.env` File And Enter The  Required Values**
+ **Modify The `.env` File And Enter The  Required Values**
 ```javascript
 DISCORD_TOKEN = BOT TOKEN HERE
 MONGODB_SRV = YOUR MANGO DB URL 
