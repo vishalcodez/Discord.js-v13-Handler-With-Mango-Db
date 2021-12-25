@@ -1,7 +1,7 @@
 <h1 align="center"> Discord.js v13 Handler With Mango Db  </h1>
 <p align="center">
-<a href="https://github.com/VishalCodez/Discord.js-v13-Handler-With-Mango-Db"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/Simpleboy353/REAPER-2.0?style=for-the-badge"></a> 
-<a href="https://github.com/VishalCodez/Discord.js-v13-Handler-With-Mango-Db/network"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/Simpleboy353/REAPER-2.0?style=for-the-badge"></a>
+<a href="https://github.com/VishalCodez/Discord.js-v13-Handler-With-Mango-Db"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/VishalCodez/Discord.js-v13-Handler-With-Mango-Db?style=for-the-badge"></a> 
+<a href="https://github.com/VishalCodez/Discord.js-v13-Handler-With-Mango-Db/network"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/VishalCodez/Discord.js-v13-Handler-With-Mango-Db?style=for-the-badge"></a>
 
 </p>
 
