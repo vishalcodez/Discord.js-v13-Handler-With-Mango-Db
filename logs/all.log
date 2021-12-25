@@ -1,0 +1,74 @@
+[36minfo[39m  - 26-12-2021 01:52:31:5231 : [36mLogged in as Testing Robot. Ready on 4 servers, for a total of 2 users[39m 
+[37mdebug[39m  - 26-12-2021 01:52:31:5231 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 01:52:31:5231 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 01:52:32:5232 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 26-12-2021 01:52:32:5232 : [37mSuccessfully reloaded slash commands.[39m 
+[36minfo[39m  - 26-12-2021 01:52:32:5232 : [36mconnected to the database successfully[39m 
+[36minfo[39m  - 26-12-2021 01:53:05:535 : [36mLogged in as Testing Robot. Ready on 4 servers, for a total of 2 users[39m 
+[37mdebug[39m  - 26-12-2021 01:53:05:535 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 01:53:05:535 : [37mRefreshing slash commands...[39m 
+[36minfo[39m  - 26-12-2021 01:53:07:537 : [36mconnected to the database successfully[39m 
+[37mdebug[39m  - 26-12-2021 01:53:32:5332 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 26-12-2021 01:53:33:5333 : [37mSuccessfully reloaded slash commands.[39m 
+[31merror[39m  - 26-12-2021 01:56:30:5630 : [31mInvalid connection string "MANGO DB URL"[39m MongoParseError: Invalid connection string "MANGO DB URL"
+    at new ConnectionString (C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\mongodb-connection-string-url\lib\index.js:82:19)
+    at parseOptions (C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\mongodb\lib\connection_string.js:213:17)
+    at new MongoClient (C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\mongodb\lib\mongo_client.js:62:63)
+    at C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\mongoose\lib\connection.js:779:16
+    at new Promise (<anonymous>)
+    at NativeConnection.Connection.openUri (C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\mongoose\lib\connection.js:776:19)
+    at C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\mongoose\lib\index.js:332:10
+    at C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+[36minfo[39m  - 26-12-2021 01:57:08:578 : [36mLogged in as Testing Robot. Ready on 4 servers, for a total of 2 users[39m 
+[37mdebug[39m  - 26-12-2021 01:57:08:578 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 01:57:08:578 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 01:57:09:579 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 26-12-2021 01:57:09:579 : [37mSuccessfully reloaded slash commands.[39m 
+[36minfo[39m  - 26-12-2021 01:57:09:579 : [36mconnected to the database successfully[39m 
+[36minfo[39m  - 26-12-2021 02:10:18:1018 : [36mLogged in as Testing Robot. Ready on 4 servers, for a total of 2 users[39m 
+[37mdebug[39m  - 26-12-2021 02:10:18:1018 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 02:10:18:1018 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 02:10:19:1019 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 26-12-2021 02:10:19:1019 : [37mSuccessfully reloaded slash commands.[39m 
+[36minfo[39m  - 26-12-2021 02:10:19:1019 : [36mconnected to the database successfully[39m 
+[31merror[39m  - 26-12-2021 02:10:29:1029 : [31mname is not defined[39m ReferenceError: name is not defined
+    at Object.execute (C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\commands\uptime.js:15:16)
+    at module.exports (C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\events\guild\interactionCreate.js:7:15)
+    at Client.emit (node:events:390:28)
+    at InteractionCreateAction.handle (C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\discord.js\src\client\actions\InteractionCreate.js:73:12)
+    at Object.module.exports [as INTERACTION_CREATE] (C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\discord.js\src\client\websocket\handlers\INTERACTION_CREATE.js:4:36)
+    at WebSocketManager.handlePacket (C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\discord.js\src\client\websocket\WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\discord.js\src\client\websocket\WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\discord.js\src\client\websocket\WebSocketShard.js:300:10)
+    at WebSocket.onMessage (C:\Users\Vishal\Desktop\Discord.js-v13-Handler With Mango Db\node_modules\ws\lib\event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+[36minfo[39m  - 26-12-2021 02:23:34:2334 : [36mLogged in as Testing Robot. Ready on 4 servers, for a total of 2 users[39m 
+[37mdebug[39m  - 26-12-2021 02:23:34:2334 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 02:23:34:2334 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 02:23:34:2334 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 26-12-2021 02:23:35:2335 : [37mSuccessfully reloaded slash commands.[39m 
+[36minfo[39m  - 26-12-2021 02:23:36:2336 : [36mconnected to the database successfully[39m 
+[36minfo[39m  - 26-12-2021 02:24:57:2457 : [36mLogged in as Testing Robot. Ready on 4 servers, for a total of 2 users[39m 
+[37mdebug[39m  - 26-12-2021 02:24:57:2457 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 02:24:57:2457 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 02:24:57:2457 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 26-12-2021 02:24:58:2458 : [37mSuccessfully reloaded slash commands.[39m 
+[36minfo[39m  - 26-12-2021 02:24:58:2458 : [36mconnected to the database successfully[39m 
+[36minfo[39m  - 26-12-2021 02:25:06:256 : [36mLogged in as Testing Robot. Ready on 4 servers, for a total of 2 users[39m 
+[37mdebug[39m  - 26-12-2021 02:25:06:256 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 02:25:06:256 : [37mRefreshing slash commands...[39m 
+[36minfo[39m  - 26-12-2021 02:25:07:257 : [36mconnected to the database successfully[39m 
+[36minfo[39m  - 26-12-2021 02:25:49:2549 : [36mLogged in as Testing Robot. Ready on 4 servers, for a total of 2 users[39m 
+[37mdebug[39m  - 26-12-2021 02:25:49:2549 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 02:25:49:2549 : [37mRefreshing slash commands...[39m 
+[36minfo[39m  - 26-12-2021 02:25:50:2550 : [36mconnected to the database successfully[39m 
+[37mdebug[39m  - 26-12-2021 02:25:58:2558 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 26-12-2021 02:25:58:2558 : [37mSuccessfully reloaded slash commands.[39m 
+[36minfo[39m  - 26-12-2021 02:27:32:2732 : [36mLogged in as Testing Robot. Ready on 4 servers, for a total of 2 users[39m 
+[37mdebug[39m  - 26-12-2021 02:27:32:2732 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 02:27:32:2732 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 26-12-2021 02:27:32:2732 : [37mSuccessfully reloaded slash commands.[39m 
+[36minfo[39m  - 26-12-2021 02:27:33:2733 : [36mconnected to the database successfully[39m 
+[37mdebug[39m  - 26-12-2021 02:27:33:2733 : [37mSuccessfully reloaded slash commands.[39m 

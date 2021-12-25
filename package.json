@@ -1,0 +1,35 @@
+{
+    "name": "discord.js-v13-handler-with-mango-db",
+    "version": "1.0.0",
+    "description": "A Discord.js Handler With With Only Slash Commnands With Mango Db Made With Hate By VishalCodez",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "github.com/VishalCodez/Discord.js-v13-Handler-With-Mango-Db"
+    },
+    "keywords": [
+        "Music",
+        "Bot",
+        "Discord",
+        "Discord-jsv13",
+        "v13",
+        "js",
+        "nodejs",
+        "discordbot",
+        "discord-command-handler",
+        "discordbothandler"
+    ],
+    "author": "VishalCodez",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^13.4.0",
+        "dotenv": "^10.0.0",
+        "moment": "^2.29.1",
+        "mongoose": "^6.1.3",
+        "winston": "^3.3.3"
+    }
+}
