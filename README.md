@@ -6,7 +6,9 @@
 </p>
 
 ***
- 
+ ## [JOIN CODE STREAKERS SERVER](https://discord.gg/czHQgQgMHY)
+<a href="https://discord.gg/czHQgQgMHY"><img src="https://discord.com/api/guilds/924403432054456351/widget.png"></a>
+
 
 ## Installation Guide & Requirements
 
@@ -33,5 +35,8 @@
 DISCORD_TOKEN = BOT TOKEN HERE
 MONGODB_SRV = YOUR MANGO DB URL 
 ```
+
+
+
 ## Made With Hate 😈 By [VIshal Codez](https://github.com/VishalCodez)
 
