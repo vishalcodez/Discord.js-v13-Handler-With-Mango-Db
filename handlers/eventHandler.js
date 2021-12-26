@@ -19,10 +19,7 @@ const eventHandler = (client) => {
 
 module.exports = eventHandler;
 /**
- * @INFO
  * Coded By Vishal Codez
- * @INFO
  * Please Don't Forget To Give Credits To Vishal Codez if You Are Using This
- * @INFO
  * Please Mention Vishal Codez / In Code Streakers, When Using This Code!
  */
